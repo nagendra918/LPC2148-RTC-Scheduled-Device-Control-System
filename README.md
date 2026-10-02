@@ -77,6 +77,14 @@ Menu-Driven-RTC-Configuration-and-Scheduled-Device-Control-System/
 │   ├── rtc.c
 │   └── rtc.h
 │
+├── tests/
+│   ├── delay_test.c
+│   ├── eint_test.c
+│   ├── keypad_test.c
+│   ├── lcd_test.c
+│   ├── led_test.c
+│   └── rtc_test.c
+│
 ├── doc/
 │   └── PROJECT_FLOW.md
 │
@@ -125,7 +133,7 @@ Menu-Driven-RTC-Configuration-and-Scheduled-Device-Control-System/
                       Repeat Loop
 ```
 
-For detailed flow, see **[PROJECT_FLOW.md](PROJECT_FLOW.md)**.
+For detailed flow, see **[PROJECT_FLOW.md](doc/PROJECT_FLOW.md)**.
 
 ---
 
