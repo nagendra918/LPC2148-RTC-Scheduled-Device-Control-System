@@ -77,14 +77,6 @@ Menu-Driven-RTC-Configuration-and-Scheduled-Device-Control-System/
 │   ├── rtc.c
 │   └── rtc.h
 │
-├── tests/
-│   ├── delay_test.c
-│   ├── eint_test.c
-│   ├── keypad_test.c
-│   ├── lcd_test.c
-│   ├── led_test.c
-│   └── rtc_test.c
-│
 ├── doc/
 │   └── PROJECT_FLOW.md
 │
