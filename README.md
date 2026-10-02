@@ -133,7 +133,7 @@ Menu-Driven-RTC-Configuration-and-Scheduled-Device-Control-System/
                       Repeat Loop
 ```
 
-For detailed flow, see **[PROJECT_FLOW.md](doc/PROJECT_FLOW.md)**.
+For detailed flow, see **[doc/PROJECT_FLOW.md](doc/PROJECT_FLOW.md)**.
 
 ---
 
