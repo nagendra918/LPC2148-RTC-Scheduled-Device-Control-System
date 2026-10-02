@@ -78,7 +78,6 @@ Menu-Driven-RTC-Configuration-and-Scheduled-Device-Control-System/
 │   └── rtc.h
 │
 ├── tests/
-│   ├── delay_test.c
 │   ├── eint_test.c
 │   ├── keypad_test.c
 │   ├── lcd_test.c
@@ -86,7 +85,8 @@ Menu-Driven-RTC-Configuration-and-Scheduled-Device-Control-System/
 │   └── rtc_test.c
 │
 ├── doc/
-│   └── PROJECT_FLOW.md
+│   ├── PROJECT_FLOW.md
+│   └── blok diagram.png
 │
 ├── images/
 │   └── ...
