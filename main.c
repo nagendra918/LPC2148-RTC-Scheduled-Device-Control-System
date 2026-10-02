@@ -430,17 +430,17 @@ void StartupDisplay(void)
 {
     WRITE_LCD_CMD(CLEAR_LCD);
 
-    strLCD("MOHAMMED SUFIYAN");
+    strLCD("LPC2148 RTC");
 
     delay_s(1);
 
     WRITE_LCD_CMD(CLEAR_LCD);
 
-    strLCD("Menu-Driven RTC");
+    strLCD("Scheduled Device");
 
     WRITE_LCD_CMD(GOTO_LINE2_POS0);
 
-    strLCD("Configuration");
+    strLCD("Control System");
 
     delay_s(2);
 
